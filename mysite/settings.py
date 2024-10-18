@@ -132,4 +132,4 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_HOST_USER = 'nikolay.korbut@gmail.com'
-EMAIL_HOST_PASSWORD = 'avgn afnj njwc fzmv'
+EMAIL_HOST_PASSWORD = ''
